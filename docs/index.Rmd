@@ -1,0 +1,6 @@
+---
+title: "index.rmd title"
+---
+
+Hello, website! 
+The content of index.rmd.
